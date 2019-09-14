@@ -1,4 +1,4 @@
-# Groupe de elhorm_j
+elhorm_j
 
 Pour lancer le programe il faut lancer dans src le fichier test.php:
 
